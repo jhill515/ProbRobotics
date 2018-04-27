@@ -1,3 +1,5 @@
+Copyright (c) 2018 John T Hill IV; All rights reserved.
+
 Microsoft Reference Source License (Ms-RSL)
 ========================================================================================================================
 This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
