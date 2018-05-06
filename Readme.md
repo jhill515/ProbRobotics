@@ -21,7 +21,12 @@ This is a collection of electronic notes pertaining to the science of *Probabili
 Contents
 ========================================================================================================================
 
-1. [Introduction](https://nbviewer.jupyter.org/github/jhill515/ProbRobotics/blob/master/01_Introduction/01_Introduction.ipynb)
+1. [Introduction](01_Introduction/01_Introduction.ipynb)
+
+2. Recursive State Estimation
+ * [Probability Refresher](02_RecursiveStateEst/1_ProbabilityRefresher.ipynb)
+ * [Introduction to Bayes Filtering](02_RecursiveStateEst/2_BayesFilterIntro.ipynb)
+ * [Problems](02_RecursiveStateEst/Ch2_Problems.ipynb)
 
 
 
