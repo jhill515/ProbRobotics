@@ -28,6 +28,12 @@ Contents
  * [Introduction to Bayes Filtering](02_RecursiveStateEst/2_BayesFilterIntro.ipynb)
  * [Problems](02_RecursiveStateEst/Ch2_Problems.ipynb)
 
+3. Gaussian Filters
+  * [Kalman Filters](https://todo.org)
+  * [Extended & Unscented Kalman Filters](https://todo.org)
+  * [Information Filter](https://todo.org)
+  * [Problems](https://todo.org)
+
 
 
 Licensing
