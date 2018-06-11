@@ -29,7 +29,7 @@ Contents
  * [Problems](02_RecursiveStateEst/Ch2_Problems.ipynb)
 
 3. Gaussian Filters
-  * [Kalman Filters](https://todo.org)
+  * [Introduction to Kalman Filters](03_GaussFilters/1_KalmanIntro.ipynb)
   * [Extended & Unscented Kalman Filters](https://todo.org)
   * [Information Filter](https://todo.org)
   * [Problems](https://todo.org)
