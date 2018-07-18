@@ -30,7 +30,7 @@ Contents
 
 3. Gaussian Filters
   * [Introduction to Kalman Filters](03_GaussFilters/1_KalmanIntro.ipynb)
-  * [Extended & Unscented Kalman Filters](https://todo.org)
+  * [Extended & Unscented Kalman Filters](03_GaussFilters/2_EKF_and_Unscented.ipynb)
   * [Information Filter](https://todo.org)
   * [Problems](https://todo.org)
 
