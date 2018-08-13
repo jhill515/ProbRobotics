@@ -31,7 +31,7 @@ Contents
 3. Gaussian Filters
   * [Introduction to Kalman Filters](03_GaussFilters/1_KalmanIntro.ipynb)
   * [Extended & Unscented Kalman Filters](03_GaussFilters/2_EKF_and_Unscented.ipynb)
-  * [Information Filter](https://todo.org)
+  * [Information Filter](03_GaussFilters/3_Info_Filters.ipynb)
   * [Problems](https://todo.org)
 
 
@@ -40,8 +40,3 @@ Licensing
 ========================================================================================================================
 This entire work is licensed under the **Microsoft Reference Source License (Ms-RSL)**. Please refer to the attached license documentation or contact the author.
 
-
-<!-- Copyright (c)2018 John T Hill IV; All rights reserved.                                                          -->
-<!--                                                                                                                 -->
-<!-- Microsoft Reference Source License (Ms-RSL)                                                                     -->
-<!-- See Ms-RSL.md or request from John T Hill IV for license details.                                               -->
