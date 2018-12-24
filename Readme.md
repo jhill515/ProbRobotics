@@ -32,7 +32,7 @@ Contents
   * [Introduction to Kalman Filters](03_GaussFilters/1_KalmanIntro.ipynb)
   * [Extended & Unscented Kalman Filters](03_GaussFilters/2_EKF_and_Unscented.ipynb)
   * [Information Filter](03_GaussFilters/3_Info_Filters.ipynb)
-  * [Problems](https://todo.org)
+  * [Problems](03_GaussFilters/Ch3_Problems.ipynb)
 
 
 
