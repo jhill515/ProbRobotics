@@ -34,6 +34,11 @@ Contents
   * [Information Filter](03_GaussFilters/3_Info_Filters.ipynb)
   * [Problems](03_GaussFilters/Ch3_Problems.ipynb)
 
+Appendix A - Inverse Kinematics
+  * [Conventions](ApxA_InvKin/1_Conventions.ipynb)
+  * [Forward Kinematics](ApxA_InvKin/2_FwdKinematics.ipynb)
+  * [Inverse Kinematics](ApxA_InvKin/3_InvKinematics.ipynb)
+  * [Problems](ApxA_InvKin/ApxA_Problems.ipynb)
 
 
 Licensing
